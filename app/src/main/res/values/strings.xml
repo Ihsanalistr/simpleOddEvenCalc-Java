@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pribujil</string>
+    <string name="prima">Prima</string>
+    <string name="bulat">Bulat</string>
+    <string name="ganjil">Ganjil</string>
+    <string name="txtInput">Masukkan Angka!</string>
+</resources>
